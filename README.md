@@ -1,5 +1,5 @@
 # react-complete-burger-builder
- Burger Builder React App
+## Burger Builder React App
 
 
 
@@ -19,7 +19,7 @@
 
 - The Spread operator lets you expand an iterable like a string, object or array into its elements
 
-- <strong> 태그 안에 넣으면 볼드체
+- strong 태그 안에 넣으면 볼드체
 
 - toFixed() 메서드는 고정 소수점 표기법으로 표기해 반환
 
