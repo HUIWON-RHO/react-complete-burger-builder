@@ -2,9 +2,12 @@
 
 - [x] Firebase : Offered by Google, module that storing database on the backend. 
 
-- [x] Redux : 리덕스는 어플리케이션의 클라이언트쪽 state를 관리하기 위한 거대한 이벤트루프이다. 클라이언트 앱의 복잡성을 제어하기 위한 하나의 state제어 수단.
+- [x] Redux : 리덕스를 사용하면 상태값을, 컴포넌트에 종속시키지 않고, 상태관리를 컴포넌트의 바깥에서 관리 할 수 있게 됨. 리덕스 스토어 통해서 
+https://blog.naver.com/donggyu_00/221319484766
 
 - Routing is about being able to show different pages to the user. Though, we want to show different pages for diffrent URLs. Trick : re-render parts of the single page or single page depending on which path the user navigated to in our application.
+
+- [x] Immutable Update Patterns (강의 266)
 
 <details>
 <summary>  </summary>
