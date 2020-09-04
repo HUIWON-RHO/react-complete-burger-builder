@@ -1,11 +1,13 @@
 # react-complete-burger-builder
 
+- [x] HTTP request
+
 - [x] Firebase : Offered by Google, module that storing database on the backend. 
 
 - [x] Redux : 리덕스를 사용하면 상태값을, 컴포넌트에 종속시키지 않고, 상태관리를 컴포넌트의 바깥에서 관리 할 수 있게 됨. 리덕스 스토어 통해서 
 https://blog.naver.com/donggyu_00/221319484766
 
-- Routing is about being able to show different pages to the user. Though, we want to show different pages for diffrent URLs. Trick : re-render parts of the single page or single page depending on which path the user navigated to in our application.
+- [x] Routing : Routing is about being able to show different pages to the user. Though, we want to show different pages for diffrent URLs. Trick : re-render parts of the single page or single page depending on which path the user navigated to in our application.
 
 - [x] Immutable Update Patterns (강의 266)
 
@@ -16,8 +18,16 @@ https://blog.naver.com/donggyu_00/221319484766
 </details>
 
 
+
 <details>
-<summary> ❕TIPS </summary>
+<summary> Http Requests in React (Typically) </summary>
+
+- 서버랑 리액트 앱이랑 html pages로 커뮤니케이션 하는게 아니라 JSON Data로 소통함.
+
+</details>
+
+<details>
+<summary> ❕Little little </summary>
 
 - HOC 언제 사용? : 리액트 컴포넌트를 작성하게 될 때 반복될 수 있는 코드들을 hoc를 만들어서 해결할 수 있다. 
 
